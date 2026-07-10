@@ -2,11 +2,14 @@
 // @name         Google & YouTube Results Open in New Tabs
 // @name:zh-CN   Google 和 YouTube 结果在新标签页打开
 // @namespace    https://greasyfork.org/users/82488
-// @version      1.1.1
+// @version      1.1.2
 // @description  Open Google search results and selected YouTube video, Shorts, live, playlist, and channel links in new tabs.
 // @description:zh-CN  在新标签页中打开 Google 搜索结果，以及 YouTube 视频、Shorts、直播、播放列表和频道链接。
 // @author       暖色浮余生
-// @include      /^https:\/\/(?:www\.)?google\.(?:com|cat|[a-z]{2}|(?:com|co)\.[a-z]{2})\/search(?:[/?]|$).*/
+// @include      /^https:\/\/(?:www\.)?google\.com\/search(?:[/?]|$).*/
+// @include      /^https:\/\/(?:www\.)?google\.cat\/search(?:[/?]|$).*/
+// @include      /^https:\/\/(?:www\.)?google\.[a-z]{2}\/search(?:[/?]|$).*/
+// @include      /^https:\/\/(?:www\.)?google\.(?:com|co)\.[a-z]{2}\/search(?:[/?]|$).*/
 // @match        https://youtube.com/*
 // @match        https://www.youtube.com/*
 // @match        https://m.youtube.com/*
