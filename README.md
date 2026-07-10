@@ -2,3 +2,5 @@
 ## Google & YouTube Results Open in New Tabs
 
 在新标签页中打开 Google 搜索结果，以及 YouTube 视频、Shorts、直播、播放列表和频道链接。
+
+该脚本是在[phathur](https://greasyfork.org/zh-CN/scripts/586344-google-youtube-results-open-in-new-tabs)已有脚本的基础上更新的。
