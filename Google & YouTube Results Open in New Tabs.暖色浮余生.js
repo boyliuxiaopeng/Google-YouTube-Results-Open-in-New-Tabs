@@ -2,6 +2,7 @@
 // @name         Google & YouTube Results Open in New Tabs
 // @name:zh-CN   Google 和 YouTube 结果在新标签页打开
 // @namespace    https://greasyfork.org/users/82488
+// @namespace    https://github.com/boyliuxiaopeng/Google-YouTube-Results-Open-in-New-Tabs
 // @version      1.1.2
 // @description  Open Google search results and selected YouTube video, Shorts, live, playlist, and channel links in new tabs.
 // @description:zh-CN  在新标签页中打开 Google 搜索结果，以及 YouTube 视频、Shorts、直播、播放列表和频道链接。
